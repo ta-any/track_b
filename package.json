@@ -1,0 +1,28 @@
+{
+  "name": "track_and_visualize_prices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "back": "node ./backend/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mysql2": "^3.14.0",
+    "nodemon": "^3.1.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ta-any/track_b.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ta-any/track_b/issues"
+  },
+  "homepage": "https://github.com/ta-any/track_b#readme"
+}
